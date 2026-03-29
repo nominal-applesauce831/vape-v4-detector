@@ -20,7 +20,7 @@ After scanning, it optionally dumps each detected module to `vape-V4-{n}.bin`.
 
 MSVC:
 ```
-cl /EHsc vape_detector.cpp
+open the sln and build with vs 22 - 26
 ```
 
 Run as administrator (needs `PROCESS_VM_READ` access to `javaw.exe`).
