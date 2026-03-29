@@ -1,6 +1,6 @@
 # Vape V4 Detector
 
-Detects Vape V4 injected into Minecraft instance.
+Detects Vape V4 injected into a Minecraft instance.
 
 ## How It Works
 
