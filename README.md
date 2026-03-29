@@ -1,6 +1,7 @@
 # Vape V4 Loader — Reverse Engineering Analysis
 
 > **Protection:** VMProtect 3.x (`.vlizer` section, ~7MB virtualized code) (or code defender)
+> 
 > **Target:** Minecraft (Java Edition)
 
 ---
