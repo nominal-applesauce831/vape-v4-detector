@@ -14,7 +14,7 @@ The detector:
 4. Parses the PE section table looking for a section named **`.vlizer`**
 5. If found, prints the base address of the injected module
 
-After scanning, it optionally dumps each detected module to `vape-V4-{n}.bin`.
+After scanning, you can dump vapes module (vapes dll) to a `vape-V4-{n}.bin`.
 
 ## Building
 
