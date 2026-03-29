@@ -57,3 +57,10 @@ also for some reason vape maps the same dll twice, for no reason -_- so it will 
 ```
 so they map the module then the module maps the same module the courrupts the 1st dll pages?, its fucked but this does work 100% as of right now 
 ```
+
+```
+ptview output
+```
+
+<img width="1682" height="812" alt="image" src="https://github.com/user-attachments/assets/2b598a32-8fa8-405e-8461-927d142c3eb3" />
+
