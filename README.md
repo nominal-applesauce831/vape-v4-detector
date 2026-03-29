@@ -30,7 +30,7 @@ open the sln and build with vs 22 - 26
 just open the exe when it builds after injecting vape-v4
 ```
 
-Auto-finds Minecraft. No arguments needed.
+output
 
 ```
 looking for vape v4
