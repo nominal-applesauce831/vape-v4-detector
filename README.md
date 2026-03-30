@@ -38,10 +38,6 @@ vape v4 found @ 0x000002F9BCC40000
 dump? (y/n): n
 ```
 
-## Why check `.vlizer`
-
-The `.vlizer` section is added by Themida/WinLicense, we check for PAGE_EXECUTE_READWRITE - MEM_PRIVATE 
-
 ## How Vape Injects
 
 1. Enables `SeDebugPrivilege` on its process token
